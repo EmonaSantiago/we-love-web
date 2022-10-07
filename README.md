@@ -6,6 +6,8 @@ Op de hoogte te blijven van de (internationale) ontwikkelingen in het vakgebied.
 Criteria: Volgt aangeboden internationale ontwikkelingen in het vakgebied. 
 
 ## 16-09-2022 Sander CSS 
+## 7-10-2022 Vasilis van Gemert over Exclusive Design. 
+
 
 ## Licentie
 
