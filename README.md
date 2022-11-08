@@ -5,8 +5,10 @@ Een blog voor het bijhouden van de We ❤️ Web sessies.
 Op de hoogte te blijven van de (internationale) ontwikkelingen in het vakgebied. 
 Criteria: Volgt aangeboden internationale ontwikkelingen in het vakgebied. 
 
-## 16-09-2022 Sander CSS 
-## 7-10-2022 Vasilis van Gemert over Exclusive Design. 
+## WE ❤️ WEB NOG IN PROCESS...
+### Figma design
+<img width="946" alt="Schermafbeelding 2022-11-08 om 16 18 49" src="https://user-images.githubusercontent.com/90447045/200604116-efd26366-ca24-4308-911e-c65f9b47c546.png">
+
 
 
 ## Licentie
